@@ -1,0 +1,15 @@
+﻿t2kxrrwqjuv
+
+http://localhost:5162/CheckEmail/t2kxrrwqjuv/sk_stefankogut@gmail.com
+
+http://localhost:5162/CheckEmail/t2kxrrwqjuv/fuck@hotmaill.com
+
+
+
+
+/*
+            if (Token.IsToken(key))
+                token = Token.FromString(key);
+            else
+                token = keyManager.Authenticate(key, out connection);
+             */
